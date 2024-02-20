@@ -3,8 +3,8 @@ export const Plants = [
         name: "POPPY",
         scientificName: "PAPAVER SOMNIFERUM",
         image: "https://i.pinimg.com/564x/d5/9c/27/d59c2716efa9e5439a6d100e8716b485.jpg",
-        // spiritualUses: "Sacred to Demeter, goddess of the harvest; magical use: Pleasure, heightened awareness, love, luck, invisibility.; high in fiber, B vitamins; good for digestive, heart, and immune health",
-        // spellUses: "Poppy Seed: For Fertility, Love, Sleep, Money, Luck, and Invisibility.",
+        spiritualUses: "Sacred to Demeter, goddess of the harvest; magical use: Pleasure, heightened awareness, love, luck, invisibility.; high in fiber, B vitamins; good for digestive, heart, and immune health",
+        spellUses: "Poppy Seed: For Fertility, Love, Sleep, Money, Luck, and Invisibility.",
     },
     {
         name: "BLACK PEPPERCORN",

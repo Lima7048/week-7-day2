@@ -1,28 +1,39 @@
-#root {
+.App {
   max-width: 1280px;
   margin: 0 auto;
-  padding: 2rem;
+  padding: 1rem;
   text-align: center;
 }
 
 h1 {
   flex-direction: column;
-  position: fixed;
+  position: float;
   bottom: 0;
   top: 10px;
   width: 0px;
-  left: 0;
+  left: 10;
   border: 3px solid #73ad21;
 }
+h2 {
+  font-family: "Homemade Apple", cursive;
+  font-weight: 400;
+  font-style: normal;
+  margin-right: 20px;
+}
 nav {
+  display: flex;
   flex-direction: row;
+  align-items: center;
   position: fixed;
-  top: 20px;
-  width: 100%;
+  top: 0px;
+  width: 100vw;
+  height: 50px;
   border-radius: 0.25rem;
-  border: 1px solid #73ad21;
-  padding: 1%;
+  /* border: 1px solid #73ad21; */
+  padding: 0%;
   margin: 0px;
+
+  /* background-color: #61dafbf3; */
 }
 
 .logo {
