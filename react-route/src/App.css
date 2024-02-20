@@ -15,8 +15,10 @@ h1 {
   border: 3px solid #73ad21;
 }
 nav {
+  flex-direction: row;
   position: fixed;
   top: 20px;
+  width: 100%;
   border-radius: 0.25rem;
   border: 1px solid #73ad21;
   padding: 1%;
